@@ -1,0 +1,34 @@
+<?XML version="1.0" encoding = "UTF-8"?>
+<cliente>
+    nombre
+    numero_cliente
+    DNI
+    apellidos
+    fecha nac
+        dia
+        mes
+        año
+    direccion
+        nombre direccion (atributo)
+        tipo_via
+        nombre_via
+        numero
+        planta
+        portal
+        letra
+        municipio
+            localidad
+            CP
+    correo_electronico
+    movil
+    fijo
+    fecha_registro
+        dia
+        mes   
+        año
+    ultimo_login
+     timestamp
+     ip
+     user_agent
+    
+</cliente>

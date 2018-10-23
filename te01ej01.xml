@@ -1,0 +1,31 @@
+<?xml version= "1.0" encoding = "UTF-8"?>
+
+<dibujo>
+
+<rectangulo>
+
+    <altura id = "120 pixeles"> </altura>
+         
+    <base id = "120 pixeles"></base>
+
+    <vertice id = "x = 150, y = 400">
+        inferior izquierda
+    </vertice>
+
+</rectangulo>
+
+<circunferencia>
+
+    <centro id = "x = 400, y = 400">   </centro>
+
+    <radio id = "100 pixeles"> </radio>
+
+</circunferencia>
+
+<recta>
+    <puntoInicial id = "x = 30, y = 250"> </puntoInicial>
+
+    <puntoFinal id = "x = 400, y = 400"> </puntoFinal>
+</recta>
+
+</dibujo>

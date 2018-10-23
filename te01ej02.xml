@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding= "UTF-8"?>
+
+<panel>
+
+    <evento id="1">
+        <senal id = "Accidente">  </senal>
+
+        <puntoKilometrico>
+            Kilometro 42.200
+        </puntoKilometrico>
+
+        <nombreVia id =" A-49"></nombreVia>
+
+        <sentido id = "Huelva"> </sentido>
+
+        <corteVias id = "1"> </corteVias>
+
+        <fecha/>
+
+        <retenciones id = "Si"> </retenciones>
+
+            8 Kilometros de retenciones
+       
+    </evento>
+
+
+    <evento id="2">
+        <senal id = "Retenciones"> </senal>
+
+        <puntoKilometrico>
+            Kilometro 550
+        </puntoKilometrico>
+
+        <nombreVia id = "A-4"> </nombreVia>
+
+        <sentido id = "Sevilla"> </sentido>
+
+        <corteVias/>       
+
+        <fecha/>
+
+        <retenciones id = "Si"> </retenciones>
+        
+            3 Kilometros de retenciones
+
+    </evento>
+
+
+</panel>

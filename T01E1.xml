@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!--Pedido para el señor Juan Delgado Martínez. 
+El pedido se compone de una bicicleta A2023. A entregar en la calle Barco 4, 
+tercer piso, letra A, el día 19-5-2000.-->
+
+
+<pedido >
+    <destinatario>
+        <nombre>
+            Juan 
+        </nombre>
+
+        <apellido>
+            Delgado Martinez
+        </apellido>
+
+    </destinatario>
+
+    <productos>
+         <product id="A2023"> bicicleta </producto>
+         <product id="IPhone X"> movil </producto>
+    </productos>
+
+    <direccion>
+        Barco 4, 3º A
+    </direccion>
+
+    <fecha>
+        15/05/2000
+        </fecha>
+</pedido>
+

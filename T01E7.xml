@@ -1,0 +1,48 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+
+<factura id = "999">
+
+    <datosCompania>
+        <nombre>
+            Equipos Digitales
+        </nombre>
+
+        <direccion>
+            S.L Avenida Valladolid, Madrid 28015
+        </direccion>
+
+        <CIF>
+            Q-9876543
+        </CIF>
+
+        <telefono>
+            917776688
+        </telefono>
+        
+        <fax>
+            917776699
+        </fax>
+
+    </datosCompania>
+
+    <datosCliente>
+
+        <nCliente id = "879"> </nCliente>
+        
+        <nombre>
+            Dario Bueno Gutierrez
+        </nombre>
+
+        <direccion>
+            Avenida de Oporto nº7 4ºD
+        </direccion>
+
+        <poblacion CP = "28043">
+            Madrid
+        </poblacion>
+
+        
+
+    </datosCliente>
+
+</factura>

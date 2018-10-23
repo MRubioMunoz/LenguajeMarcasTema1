@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- lo de arriba es la cabecera y ha de ser siempre asi. Esto es un comentario-->
+
+<raiz>
+<!--NUNCA HACEMOS HIJO 1, HIJO 2 ETC... ES MEJOR PONER HIJO ID/ATRIBUTO ="1"-->
+    <hijo atributo="1">
+        Esto es el texto del elemento hijo &gt;<!--mayor que-->
+    </hijo>
+
+
+    <hijo atributo="2">
+        Esto es el hijo 2 &lt;<!--menor que-->
+
+    </hijo>
+
+    
+    <hijo atributo="3"/>
+        <!--elemento vacio (con la /) es equivalente a <hijo=3> </hijo>-->
+
+</raiz>

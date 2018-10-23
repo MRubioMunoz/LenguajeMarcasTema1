@@ -1,0 +1,70 @@
+<?xml version= "1.0" encoding = "UTF-8"?>
+
+<factura>
+
+    <codigo id = "123456"> </codigo>
+
+    <fecha id = "02/04/2008"> </fecha>
+
+    <cliente>
+
+        <DNI id = ""/>
+        <nombre id = ""/>
+        <direccion id = ""/>
+        <codigoPostal id = ""/>
+        <poblacion id = ""/>
+
+    </cliente>
+
+    <productos>
+
+        <producto id = "1">
+
+            <cantidad id = "20"> </cantidad>
+            <denominacion > Rotulador permanente </denominacion>
+            <precioUnitario id = "1.25€"> </precioUnitario>
+            <precioTotalProducto id = "25€"> </precioTotalProducto>
+
+        </producto>
+
+
+        <producto id = "2">
+
+            <cantidad id = "2"> </cantidad>
+            <denominacion> Paquete de 500 folios </denominacion>
+            <precioUnitario id = "4.60€"> </precioUnitario>
+            <precioTotalProducto id = "9.20€"> </precioTotalProducto>
+
+        </producto>
+
+
+
+        <producto id = "3">
+
+            <cantidad id = "10"> </cantidad>
+            <denominacion> Carpetas clasificadoras </denominacion>
+            <precioUnitario id = "2.30€" > </precioUnitario>
+            <precioTotalProducto id = "23€"> </precioTotalProducto>
+
+        </producto>
+
+
+
+        <producto id = "4">
+
+            <cantidad id = "15"> </cantidad>
+            <denominacion> Archivadores </denominacion>
+            <precioUnitario id = "2.50€"> </precioUnitario>
+            <precioTotalProducto id = "37.50€"> </precioTotalProducto>
+
+        </producto>
+
+    </productos> 
+
+    <IVA id = "21%"> </IVA>
+
+    <descuento id = ""/>   
+
+</factura>
+
+<!--- No porque el precio total de la factura es igual a la suma del precio de los distintos productos  -->

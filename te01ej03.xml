@@ -1,0 +1,27 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+
+<prediccion id = "1">
+
+    <probabilidadPrecipitacion id ="55"> </probabilidadPrecipitacion>
+
+        <estadoCielo>
+        Intervalos  nuvosos
+        </estadoCielo>
+
+        <direccionViento id = "SO"> </direccionViento>
+
+        <velocidadViento id = "10 Km/h"> </velocidadViento>
+
+        <temperaturaMaxima id = "28ºC"></temperaturaMaxima>
+
+        <temperaturaMinima id = "18ºC"> </temperaturaMinima>
+
+        <sensacionTerminca id = "31ºC"> </sensacionTerminca>
+
+        <humedadRelativaMaxima id = "30%"> </humedadRelativaMaxima>
+
+        <humedadRelativaMinima id = "10%"> </humedadRelativaMinima>
+
+        <indiceUltraVioletaMax id = "3"> </indiceUltraVioletaMax>
+
+</prediccion>
